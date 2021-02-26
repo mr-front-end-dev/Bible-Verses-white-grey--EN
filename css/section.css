@@ -60,3 +60,7 @@
 .section--color--gold {
   color: hsl(51, 100%, 45%);
 }
+
+.section--color--aqua {
+  color: hsl(180, 100%, 45%);
+}
